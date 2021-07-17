@@ -1,3 +1,14 @@
+react-base
+
+This project is an introduction to react and it's functionalities.
+
+Includes :
+
+- react
+- material-ui core & icons
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
